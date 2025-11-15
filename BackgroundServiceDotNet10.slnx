@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="BackgroundServiceDotNet10/BackgroundServiceDotNet10.csproj" Id="62e3bd8f-51d9-4234-ad24-5cf08b6fa459" />
+    <Project Path="src/BackgroundServiceDotNet9/BackgroundServiceDotNet9.csproj" Id="7d939966-0a98-4045-9674-8cbcb443ed9e" />
+  </Folder>
+</Solution>

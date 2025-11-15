@@ -1,0 +1,6 @@
+@BackgroundServiceDotNet10_HostAddress = http://localhost:5034
+
+GET {{BackgroundServiceDotNet10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
